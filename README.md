@@ -24,3 +24,5 @@
 - git remote - v
 ## cloning existing repositary
 - git clone "repositary link"  
+##commited list
+- git log
