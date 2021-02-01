@@ -27,3 +27,7 @@
 ## commited list
 - git log
 - git log --oneline
+## undoing changes
+- git restore file name(uncommited changes)
+- git revert id(commited changes
+- git reset id(reseting committes)
