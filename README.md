@@ -22,3 +22,5 @@
 - git remote add remote name"repo link"
 ## remote status
 - git remote - v
+## cloning existing repositary
+- git clone "repositary link"  
